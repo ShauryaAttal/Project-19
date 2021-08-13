@@ -49,7 +49,7 @@ mainCyclist.scale=0.07;
   
 //set collider for mainCyclist
 mainCyclist.setCollider("circle", 0, 0, 500);
-mainCyclist.debug = "true";
+//mainCyclist.debug = "true";
   
 gameOver = createSprite(650,150);
 gameOver.addImage(gameOverImg);
